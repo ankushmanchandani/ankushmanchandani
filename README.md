@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ankushmanchandani
-- 👀 I’m interested in Web Development , App Development 
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Web Dev
+- 🌱 Full Stack Dev
 - 📫 How to reach me ankushmanchandani3@gmail.com
 
 <!---
