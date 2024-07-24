@@ -1,7 +1,7 @@
 
                               🌟 Welcome to My GitHub Universe! 🌟
                               
-Hey there! I’m Ankush Manchandani, a Full Stack Developer with a passion for creating scalable and innovative tech solutions. With over 1.6 years of experience, I dive into the world of code with Java Spring Boot, Python, Django, ReactJS, NodeJS, ExpressJS, MongoDB, and SQL.
+Hey there! I’m Ankush Manchandani, a Full Stack Developer with a passion for creating scalable and innovative tech solutions. With over 2 years of experience, I dive into the world of code with Java Spring Boot, Python, Django, ReactJS, NodeJS, ExpressJS, MongoDB, and SQL.
 
 🚀 What I Do:
 
